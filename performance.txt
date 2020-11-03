@@ -1,0 +1,52 @@
+Thread 1429198592 serviced 5 files 
+Error looking up Address: Name or service not known
+DNS ERROR: sdjjdsaf.com 
+Error looking up Address: Temporary failure in name resolution
+DNS ERROR: megaupload.com 
+Number for requestor thread = 1
+Number for resolver thread = 1
+Total run time: 9180743
+
+Thread -903481600 serviced 5 files 
+Error looking up Address: Name or service not known
+DNS ERROR: sdjjdsaf.com 
+Error looking up Address: Temporary failure in name resolution
+DNS ERROR: megaupload.com 
+Number for requestor thread = 1
+Number for resolver thread = 3
+Total run time: 2603812
+
+Thread -714291456 serviced 1 files 
+Thread -731076864 serviced 2 files 
+Thread -722684160 serviced 2 files 
+Error looking up Address: Name or service not known
+DNS ERROR: sdjjdsaf.com 
+Error looking up Address: Temporary failure in name resolution
+DNS ERROR: megaupload.com 
+Number for requestor thread = 3
+Number for resolver thread = 1
+Total run time: 10101012
+
+Thread 1644431104 serviced 1 files 
+Thread 1636038400 serviced 2 files 
+Thread 1652823808 serviced 2 files 
+Error looking up Address: Name or service not known
+DNS ERROR: sdjjdsaf.com 
+Error looking up Address: Temporary failure in name resolution
+DNS ERROR: megaupload.com 
+Number for requestor thread = 3
+Number for resolver thread = 3
+Total run time: 2876950
+
+Thread -1628969216 serviced 1 files 
+Thread -1595398400 serviced 1 files 
+Thread -1612183808 serviced 1 files 
+Thread -1620576512 serviced 1 files 
+Thread -1603791104 serviced 1 files 
+Error looking up Address: Name or service not known
+DNS ERROR: sdjjdsaf.com 
+Error looking up Address: Temporary failure in name resolution
+DNS ERROR: megaupload.com 
+Number for requestor thread = 5
+Number for resolver thread = 5
+Total run time: 1734539

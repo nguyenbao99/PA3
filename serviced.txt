@@ -1,0 +1,3 @@
+Thread 1575798528 serviced 2 files 
+Thread 1592583936 serviced 1 files 
+Thread 1584191232 serviced 2 files 
