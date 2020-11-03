@@ -1,0 +1,29 @@
+Name: Bao Nguyen
+ID: 107171106
+Email: bang4255@colorado.edu
+
+Files Needed:
+Makefile: Builds all code listed below
+
+multi-lookup.c : Application that takes set of file names for input. Contains 1 hostname per line. Each file is serviced by requestor thread and servicedby max # of resolver threads. Outputs hostname with IP address
+
+multi-lookup.h : Header file for multi-lookup.c
+
+queue.c : The requester pushes to queue and the resolver pops from queue
+
+queue.h : Header file for queue.c
+
+util.c : Utility function that performs DNS lookup. Returns resolved IP address
+
+util.h : Header fil for util.h
+
+input folder : Contains .txt files with given hostnames
+
+How to use files above:
+Run "make" command in terminal to build all files.
+
+Run application by using following command template: ./multi-lookup <# requester> <# resolver> [...]
+
+For memory leaks, use: "valgrind ./multi-lookup 1 1 serviced.txt results.txt input/names1.txt input/names2.txt... input/namesn.txt"
+
+Run "make clean" to remove files.
